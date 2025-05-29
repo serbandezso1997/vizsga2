@@ -1,0 +1,14 @@
+E:\DevDezso\Konzol\Oceanic3\Oceanic3\bin\Debug\net8.0\Oceanic3.exe
+E:\DevDezso\Konzol\Oceanic3\Oceanic3\bin\Debug\net8.0\Oceanic3.deps.json
+E:\DevDezso\Konzol\Oceanic3\Oceanic3\bin\Debug\net8.0\Oceanic3.runtimeconfig.json
+E:\DevDezso\Konzol\Oceanic3\Oceanic3\bin\Debug\net8.0\Oceanic3.dll
+E:\DevDezso\Konzol\Oceanic3\Oceanic3\bin\Debug\net8.0\Oceanic3.pdb
+E:\DevDezso\Konzol\Oceanic3\Oceanic3\obj\Debug\net8.0\Oceanic3.GeneratedMSBuildEditorConfig.editorconfig
+E:\DevDezso\Konzol\Oceanic3\Oceanic3\obj\Debug\net8.0\Oceanic3.AssemblyInfoInputs.cache
+E:\DevDezso\Konzol\Oceanic3\Oceanic3\obj\Debug\net8.0\Oceanic3.AssemblyInfo.cs
+E:\DevDezso\Konzol\Oceanic3\Oceanic3\obj\Debug\net8.0\Oceanic3.csproj.CoreCompileInputs.cache
+E:\DevDezso\Konzol\Oceanic3\Oceanic3\obj\Debug\net8.0\Oceanic3.dll
+E:\DevDezso\Konzol\Oceanic3\Oceanic3\obj\Debug\net8.0\refint\Oceanic3.dll
+E:\DevDezso\Konzol\Oceanic3\Oceanic3\obj\Debug\net8.0\Oceanic3.pdb
+E:\DevDezso\Konzol\Oceanic3\Oceanic3\obj\Debug\net8.0\Oceanic3.genruntimeconfig.cache
+E:\DevDezso\Konzol\Oceanic3\Oceanic3\obj\Debug\net8.0\ref\Oceanic3.dll

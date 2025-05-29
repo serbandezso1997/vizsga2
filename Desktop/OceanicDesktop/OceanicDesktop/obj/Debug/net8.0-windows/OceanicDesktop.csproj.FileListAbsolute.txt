@@ -1,0 +1,16 @@
+E:\DevDezso\Desktop\OceanicDesktop\OceanicDesktop\bin\Debug\net8.0-windows\OceanicDesktop.exe
+E:\DevDezso\Desktop\OceanicDesktop\OceanicDesktop\bin\Debug\net8.0-windows\OceanicDesktop.deps.json
+E:\DevDezso\Desktop\OceanicDesktop\OceanicDesktop\bin\Debug\net8.0-windows\OceanicDesktop.runtimeconfig.json
+E:\DevDezso\Desktop\OceanicDesktop\OceanicDesktop\bin\Debug\net8.0-windows\OceanicDesktop.dll
+E:\DevDezso\Desktop\OceanicDesktop\OceanicDesktop\bin\Debug\net8.0-windows\OceanicDesktop.pdb
+E:\DevDezso\Desktop\OceanicDesktop\OceanicDesktop\obj\Debug\net8.0-windows\OceanicDesktop.Form1.resources
+E:\DevDezso\Desktop\OceanicDesktop\OceanicDesktop\obj\Debug\net8.0-windows\OceanicDesktop.csproj.GenerateResource.cache
+E:\DevDezso\Desktop\OceanicDesktop\OceanicDesktop\obj\Debug\net8.0-windows\OceanicDesktop.GeneratedMSBuildEditorConfig.editorconfig
+E:\DevDezso\Desktop\OceanicDesktop\OceanicDesktop\obj\Debug\net8.0-windows\OceanicDesktop.AssemblyInfoInputs.cache
+E:\DevDezso\Desktop\OceanicDesktop\OceanicDesktop\obj\Debug\net8.0-windows\OceanicDesktop.AssemblyInfo.cs
+E:\DevDezso\Desktop\OceanicDesktop\OceanicDesktop\obj\Debug\net8.0-windows\OceanicDesktop.csproj.CoreCompileInputs.cache
+E:\DevDezso\Desktop\OceanicDesktop\OceanicDesktop\obj\Debug\net8.0-windows\OceanicDesktop.dll
+E:\DevDezso\Desktop\OceanicDesktop\OceanicDesktop\obj\Debug\net8.0-windows\refint\OceanicDesktop.dll
+E:\DevDezso\Desktop\OceanicDesktop\OceanicDesktop\obj\Debug\net8.0-windows\OceanicDesktop.pdb
+E:\DevDezso\Desktop\OceanicDesktop\OceanicDesktop\obj\Debug\net8.0-windows\OceanicDesktop.genruntimeconfig.cache
+E:\DevDezso\Desktop\OceanicDesktop\OceanicDesktop\obj\Debug\net8.0-windows\ref\OceanicDesktop.dll

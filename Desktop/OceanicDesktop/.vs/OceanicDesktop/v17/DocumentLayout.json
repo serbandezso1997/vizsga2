@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DevDezso\\Desktop\\OceanicDesktop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0ACAFC78-34B0-4BD4-B505-0609882A6305}|OceanicDesktop\\OceanicDesktop.csproj|e:\\devdezso\\desktop\\oceanicdesktop\\oceanicdesktop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ACAFC78-34B0-4BD4-B505-0609882A6305}|OceanicDesktop\\OceanicDesktop.csproj|solutionrelative:oceanicdesktop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ACAFC78-34B0-4BD4-B505-0609882A6305}|OceanicDesktop\\OceanicDesktop.csproj|e:\\devdezso\\desktop\\oceanicdesktop\\oceanicdesktop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0ACAFC78-34B0-4BD4-B505-0609882A6305}|OceanicDesktop\\OceanicDesktop.csproj|solutionrelative:oceanicdesktop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\DevDezso\\Desktop\\OceanicDesktop\\OceanicDesktop\\Form1.cs",
+              "RelativeDocumentMoniker": "OceanicDesktop\\Form1.cs",
+              "ToolTip": "E:\\DevDezso\\Desktop\\OceanicDesktop\\OceanicDesktop\\Form1.cs",
+              "RelativeToolTip": "OceanicDesktop\\Form1.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAADwv0IAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T12:17:01.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\DevDezso\\Desktop\\OceanicDesktop\\OceanicDesktop\\Form1.cs",
+              "RelativeDocumentMoniker": "OceanicDesktop\\Form1.cs",
+              "ToolTip": "E:\\DevDezso\\Desktop\\OceanicDesktop\\OceanicDesktop\\Form1.cs [Design]",
+              "RelativeToolTip": "OceanicDesktop\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T12:07:17.787Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
